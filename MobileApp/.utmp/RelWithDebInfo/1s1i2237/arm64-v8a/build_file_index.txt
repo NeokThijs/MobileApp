@@ -1,0 +1,2 @@
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

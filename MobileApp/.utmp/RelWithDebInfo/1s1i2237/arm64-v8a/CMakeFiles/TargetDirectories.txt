@@ -1,0 +1,5 @@
+C:/GLU/Jaar 3/Bureau/Mobile App/MobileApp/MobileApp/.utmp/RelWithDebInfo/1s1i2237/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/GLU/Jaar 3/Bureau/Mobile App/MobileApp/MobileApp/.utmp/RelWithDebInfo/1s1i2237/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/GLU/Jaar 3/Bureau/Mobile App/MobileApp/MobileApp/.utmp/RelWithDebInfo/1s1i2237/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/GLU/Jaar 3/Bureau/Mobile App/MobileApp/MobileApp/.utmp/RelWithDebInfo/1s1i2237/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/GLU/Jaar 3/Bureau/Mobile App/MobileApp/MobileApp/.utmp/RelWithDebInfo/1s1i2237/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

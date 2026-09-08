@@ -1,0 +1,17 @@
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+C:\GLU\Jaar 3\Bureau\Mobile App\MobileApp\MobileApp\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h
